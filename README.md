@@ -45,5 +45,5 @@ version 1.0.0
 $ ./pipe demo
 Run command:
 
-pip install requests -i https://repo.huaweicloud.com/repository/pypi/simple/ --trusted-host repo.huaweicloud.com
+pip install -i https://repo.huaweicloud.com/repository/pypi/simple/ --trusted-host repo.huaweicloud.com requests
 ```
